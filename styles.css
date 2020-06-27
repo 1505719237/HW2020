@@ -3,10 +3,14 @@ body{
     display: flex;
     justify-content: center;
 }
+body{
+    background-color: skyblue;
+}
 .todo-panel {
     width:30em;
     min-height: 20em;
     margin-top: 5em;
+    background-color: snow;
 
     border: 1px solid #eee;
     box-shadow: 4px 6px 6px #888;
